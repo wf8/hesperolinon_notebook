@@ -90,7 +90,7 @@ i = 0
 for seqfile in filelist:
 
     # find forward sequences
-    if (seqfile.find("-forward_") != -1):
+    if (seqfile.find("-forward_") != -1) and (seqfile.find(".ab1") != -1):
         print "current forward seq file: " + seqfile
 
 	# get sample_id
@@ -102,7 +102,7 @@ for seqfile in filelist:
 	    reverse_found = False
 	    # get reverse sequence
 	    for seqfile2 in filelist:
-	        if (seqfile2.find(sample_id + "-reverse_") != -1):
+	        if (seqfile2.find(sample_id + "-reverse_") != -1) and (seqfile2.find(".ab1") != -1):
 		    print "found reverse seq file: " + seqfile2
 		    reverse_found = True
 		    handle2 = open(path + seqfile2, "rb")
