@@ -1,0 +1,50 @@
+CLUSTAL W (1.81) multiple sequence alignment
+
+
+rev             ................TTTT.G.......AGG.GATTTACCGAGTGTCCCTATG.TGAAT
+for             ----------------------------------------...........CC.G.A.C.
+                                                                            
+
+rev             ATCAAGT.GGTTGCATGTTTTCGCGCTAAGCGGTGCGCATGTGGCTCTGTCAAGTGTATT
+for             AA...AGT.GGTGCATGTTTTCGCGCTAAGCGGTGCGCATGTGGCTCTGTCAAGTGTATT
+                *        * *************************************************
+
+rev             TGCGAGTTGGGTTTTAGCTATATGTTAAGCTCGGCAGCAGGTCGTCTTGGTGGGGCTGTC
+for             TGCGAGTTGGGTTTTAGCTATATGTTAAGCTCGGCAGCAGGTCGTCTTGGTGGGGCTGTC
+                ************************************************************
+
+rev             TTGCGTCGTACGTGATGCGCATGAGTGGTATTTGAGTTGTTTGGGAGGGCGGGCTCCATG
+for             TTGCGTCGTACGTGATGCGCATGAGTGGTATTTGAGTTGTTTGGGAGGGCGGGCTCCATG
+                ************************************************************
+
+rev             CTCTGAGCATCGAACCGTCTTCTTGCAACTCTCTTCATTGTTGCCTTGCACATGGTGAGG
+for             CTCTGAGCATCGAACCGTCTTCTTGCAACTCTCTTCATTGTTGCCTTGCACATGGTGAGG
+                ************************************************************
+
+rev             GGTGATGATCGGGTTCCTGTATTGAATACCCATTGAGGGGAATT.TGAAGTTTGCCGTTA
+for             GGTGATGATCGGGTTCCTGTATTGAATACCCATTGAGGGGAATT.TGAAGTTTGCCGTTA
+                ************************************************************
+
+rev             TTTTCC.CCTCGTGCTCGCTTCGGGTATGGGTGGACAATGTAGCGCCTCTCGTGTTCCAA
+for             TTTTCC.CCTCGTGCTCGCTTCGGGTATGGGTGGACAGTGTAGCGCCTCTCGTGTTCCAA
+                ************************************* **********************
+
+rev             GCTCCCACAAATAAA.AGTAGGAGCTATGGCCCTCGTCGGTCGCTTGTGCTCTCGGTTGC
+for             GCTCCCACAAATAAATAGTAGGAGCTATGGCCCTCGTCGGTCGCTTGTGCTCTCGGTTGC
+                *************** ********************************************
+
+rev             GGAATGTGATGTGGCCGAACTGGATCTTGCATCTTGTGAAATTGGCCTGACCCTACGAAT
+for             GGAATGTGATGTGGCCGAACTGGATCTTGCATCTTGTGA.ATTGGCCTGACCCTACGAAT
+                *************************************** ********************
+
+rev             CCTTTTTGAACGAC..CACC...CTTGATTTGTCTCACCCGTATCATTGCTTTGCT.GGT
+for             CCTTTTTGAACGAC..CACCT.CCTTGATTTGTCTCACCCGTATCATTGCTTTGCTTGGT
+                ******************** * ********************************* ***
+
+rev             ..GG.G.......................-------------------------------
+for             TGGGTGGGTTGCT.GAGGTAGGAGTGTCGAAAGAGGGAATGCTACCTGGT....CC...C
+                  ** *       *                                              
+
+rev             --------------
+for             CAAA..........
+                              
