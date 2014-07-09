@@ -1,0 +1,38 @@
+CLUSTAL W (1.81) multiple sequence alignment
+
+
+rev             .TT.CCATATCCCCCCTTTTTTGAGATTTAAATCATAATCTTATTCTTGAATATTATGAT
+for             --------------------...............TAATCTTA...TTG..TATTATGAT
+                                                   ********   ***  *********
+
+rev             TATTGTGGTATTGTGTCATTTTTTTCTTTCATTTAGATTTCTATTCTACTGGCTACTAGA
+for             TATTGTGGTATTGTGTCATTTTTTTCTTTCATTTAGATTTCTATTCTACTGGCTACTAGA
+                ************************************************************
+
+rev             ACTGTTGAAATCATTAGATACCGAGTCCTAGAAAAGCCTTGTCTCTTATTTTTTTTCTTG
+for             ACTGTTGAAATCATTAGATACCGAGTCCTAGAAAAGCCTTGTCTCTTATTTTTTTTCTTG
+                ************************************************************
+
+rev             GATACCCTCTTT-CATTTCATTTCTATCGGAAACCTATATTTGGTCTACTTACAAATGAT
+for             GATACCCTCTTTTCATTTCATTTCTATCGGAAACCTATATTTGGTCTACTTACAAATGAT
+                ************ ***********************************************
+
+rev             TCTAGCATTTCTGTATCTGCAATTCAATATATATGTATATACGCCACATTTATTATAAAC
+for             TCTAGCATTTCTGTATCTGCAATTCAATATATATGTATATACGCCACATTTATTATAAAC
+                ************************************************************
+
+rev             TAAGTGCCCCTTCCTC...ATTTTTTTTTTCGTAAAATTTTAAATACTCGAACGGTCGAT
+for             TAAGTGCCCCTTCCTCTCA-TTTTTTTTTTCGTAAAATTTTAAATACTCGAACGGTCGAT
+                ****************    ****************************************
+
+rev             TCTTTTCTTTTTTTCTATATTCATATTAATTATGAATAACAAAAGAATGAAAAGTTAATA
+for             TCTTTTCTTTTTTTCTATATTCATATTAATTATGAATAACAAAAGAATGAAAAGTTAATA
+                ************************************************************
+
+rev             GCGAAGATTCTCGGAATTTAGGAAATTCCTATT..TCCGCATATACAA..CTC.TAT..G
+for             GCGAAGATTCTCGGAATTTAGGAAATTCCTATTTCTCCGCATATACAATTGCTCTTATGT
+                *********************************  *************      *     
+
+rev             ...............------------------
+for             GAGCCCGCTTAGCTCAGAGGTTAGAGCAC..TT
+                                                 

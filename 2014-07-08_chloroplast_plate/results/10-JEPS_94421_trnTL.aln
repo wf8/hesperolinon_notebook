@@ -1,0 +1,38 @@
+CLUSTAL W (1.81) multiple sequence alignment
+
+
+rev             ....T...CA.T.CCCCCTTTTT.GAGATTTAAATCATAATCT..T.C.TGAATATTATG
+for             -------------------...............................G..TATTATG
+                                       *                   ** * * *  *******
+
+rev             ATTATTGTGGTATTGTGTCATTTTTTTCTTTCATTTAGATTTCTATTCTACTGGCTACTA
+for             ATTATTGTGGTATTGTGTCATTTTTTTCTTTCATTTAGATTTCTATTCTACTGGCTACTA
+                ************************************************************
+
+rev             GAACTGTTGAAATCATTAGATACCGAGTCCTAGAAAAGCCTTTTCTCTTATTTTTTTTCT
+for             GAACTGTTGAAATCATTAGATACCGAGTCCTAGAAAAGCCTTTTCTCTTATTTTTTTTCT
+                ************************************************************
+
+rev             TGGATACCCTCTTTCATTTCATTTCTATCGGAAACCTATATTTGGTCTACTTACAAATGA
+for             TGGATACCCTCTTTCATTTCATTTCTATCGGAAACCTATATTTGGTCTACTTACAAATGA
+                ************************************************************
+
+rev             TTCTAGCATTTCTGTATCTGCAATTCAATATATATGTATATACGCCACATTTATTATAAA
+for             TTCTAGCATTTCTGTATCTGCAATTCAATATATATGTATATACGCCACATTTATTATAAA
+                ************************************************************
+
+rev             CTAAGTGCCCCTTCCTCTCATTTTTTTTTCGTAAAATTTTAAATACTCGAACGGTCGATT
+for             CTAAGTGCCCCTTCCTCTCATTTTTTTTTCGTAAAATTTTAAA.ACTCGAACG...GATT
+                ******************************************* *********   ****
+
+rev             CTTTTCTTTTTTTCTATATTCATATTAATTATGAATAACAAAAGAATGAAAAGTTAATAG
+for             CTTTTCTTTTTTTCTATATTCATATTAATTATGAATAACAAAAGAATGAAAAGTTAATAG
+                ************************************************************
+
+rev             CGAAGATTCTCGGAATTTAGGAAATTCCTATTC.CCGCA..T.C..ATC.G...G..A..
+for             CGAAGATTCTCGGAATTTAGGAAATTCCTATTTC.C.GCATATACAATTGCTCTTATGTG
+                ********************************   *          **            
+
+rev             T..AG......---------------------
+for             AGCCCGCTTAGCTCAGAGGTTAGAG..C....
+                                                

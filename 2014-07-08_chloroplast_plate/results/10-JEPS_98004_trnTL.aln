@@ -1,0 +1,38 @@
+CLUSTAL W (1.81) multiple sequence alignment
+
+
+rev             ...TT..CATATCCCCCCTTTTTTGAGATTTAAATCATAATCTTATTCTTGAATATTATG
+for             --------------------------...........T..TCTTATTCTTGA.TATTATG
+                                                     *  ************ *******
+
+rev             ATTATTGTGGTATTGTGTCATTTTTTTCTTTCATTTAGATTTCTATTCTACTGGCTACTA
+for             ATTATTGTGGTATTGTGTCATTTTTTTCTTTCATTTAGATTTCTATTCTACTGGCTACTA
+                ************************************************************
+
+rev             GAACTGTTGAAATCATTAGATACCGAGTCCTAGAAAAGCCTTGTCTCTTATTTTTTTTCT
+for             GAACTGTTGAAATCATTAGATACCGAGTCCTAGAAAAGCCTTGTCTCTTATTTTTTTTCT
+                ************************************************************
+
+rev             TGGAT-ACCCTCTTTCATTTCATTTCTATCGGAAACCTATATTTGGTCTACTTACAAATG
+for             TG...TACCCTCTTTCATTTCATTTCTATCGGAAACCTATATTTGGTCTACTTACAAATG
+                **    ******************************************************
+
+rev             ATTCTAGCATTTCTGTATCTGCAATTCAATATATATGTATATACGCCACATTTATTATAA
+for             ATTCTAGCATTTCTGTATCTGCAATTCAATATATATGTATATACGCCACATTTATTATAA
+                ************************************************************
+
+rev             ACTAAGTGCCCCTTCCTC.C.TTTTTTTTTTTCGTAAAATTTTAAATACTCGAACGGTCG
+for             ACTAAGTGCCCCTTCCTCTCATTTTTTTTTT-CGTAAAATTTTAAATACTCGAACGGTCG
+                ****************** * ********** ****************************
+
+rev             ATTCTTTTCTTTTTTTCTATATTCATATTAATTATGAATAACAAAAGAATGAAAAGTTAA
+for             ATTCTTTTCTTTTTTTCTATATTCATATTAATTATGAATAACAAAAGAATGAAAAGTTAA
+                ************************************************************
+
+rev             TAGCGAAGATTCTCGGAATTTAGGAAATTCCTATTTCTCCG.ATATA.AATGCTCTTAT.
+for             TAGCGAAGATTCTCGGAATTTAGGAAATTCCTATTTCTCCGCATATACAATTGCTCTTAT
+                ***************************************** ***** ***     *   
+
+rev             .G..C........---------------------
+for             GTGAGCCCGCTTAGCTCAGAGGTTAGAG..C..T
+                                                  

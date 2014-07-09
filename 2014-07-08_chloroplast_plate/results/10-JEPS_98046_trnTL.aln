@@ -1,0 +1,38 @@
+CLUSTAL W (1.81) multiple sequence alignment
+
+
+rev             ...TT..CATATCCCCCCTTTTTTGAGATTTAAATCATAATCTTATTCTTGAATATTATG
+for             ---------------.......................A..............T..GAT.
+                                                      *              *   ** 
+
+rev             ATTATTGTGGTATTGTGTCATTTTTTTCTTTCATTTAGATTTCTATTCTACTGGCTACTA
+for             TAT.TGT.GGTATTGTGTCATTTTTTTCTTTCATTTAGATTTCTATTCTACTGGCTACTA
+                  * *   ****************************************************
+
+rev             GAACTGTTGAAATCATTAGATACCGAGTCCTAGAAAAGCCTTTTCTCTTATTTTTTTTCT
+for             GAACTGTTGAAATCATTAGATACCGAGTCCTAGAAAAGCCTTTTCTCTTATTTTTTTTCT
+                ************************************************************
+
+rev             TGGATACCCTCTTTCATTTCATTTCTATCGGAAACCTATATTTGGTCTACTTACAAATGA
+for             TGGATACCCTCTTTCATTTCATTTCTATCGGAAACCTATATTTGGTCTACTTACAAATGA
+                ************************************************************
+
+rev             TTCTAGCATTTCTGTATCTGCAATTCAATATATATGTATATACGCCACATTTATTATAAA
+for             TTCTAGCATTTCTGTATCTGCAATTCAATATATATGTATATACGCCACATTTATTATAAA
+                ************************************************************
+
+rev             CTAAGTGCCCCTTC...CTCATTTTTTTTCGTAAAATTTTAAATACTCGAACGGTCGATT
+for             CTAAGTGCCCCTTCCTC-TCATTTTTTTTCGTAAAATTTTAAATACTCGAACGGTCGATT
+                **************    ******************************************
+
+rev             CTTTTCTTTTTTTCTATATTCATATTAATTATGAATAACAAAAGAATGAAAAGTTAATAG
+for             CTTTTCTTTTTTTCTATATTCATATTAATTATGAATAACAAAAGAATGAAAAGTTAATAG
+                ************************************************************
+
+rev             CGAAGATTCTCGGAATTTAGGAA..TCCTAT..CTCCGCATATACAATG.TCTTAT.T..
+for             CGAAGATTCTCGGAATTTAGGAAATTCCTATTTCTCCGCATATACAATTGCTCTTATGTG
+                ***********************  ******  ***************     *      
+
+rev             ............------------------------
+for             AGCCCGCTTAGCTCAGAGGTTAGAGCATC.TT....
+                                                    
