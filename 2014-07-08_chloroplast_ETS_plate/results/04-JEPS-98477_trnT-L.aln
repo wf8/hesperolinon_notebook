@@ -1,0 +1,38 @@
+CLUSTAL W (1.81) multiple sequence alignment
+
+
+rev             C.....T..CCATATCCCCCCTTTTTTGAGATTTAAATCATAATCTTATTCTTGAATATT
+for             --------------------------C................ATCTTATTCTTGATATT
+                                                              *  *  *  *****
+
+rev             ATGATTATTGTGGTATTGTGTCATTTTTTTCTTTCATTTAGATTTCTATTCTACTGGCTA
+for             ATGATTATTGTGGTATTGTGTCATTTTTTTCTTTCATTTAGATTTCTATTCTACTGGCTA
+                ************************************************************
+
+rev             CTAGAACTGTTGAAATCATTAGATACCGAGTCCTAGAAAAGCCTTTTCTCTT.TTTTTTT
+for             CTAGAACTGTTGAAATCATTAGATACCGAGTCCTAGAAAAGCCTTTTCTCTTATTTTTTT
+                **************************************************** *******
+
+rev             TCTTGGATACCCTCTTTCATTTCATTTCTATCGGAAACCTATATTTGGTCTACTTACAAA
+for             TCTTGGATACCCTCTTTCATTTCATTTCTATCGGAAACCTATATTTGGTCTACTTACAAA
+                ************************************************************
+
+rev             TGATTCTAGCATTTCTGTATCTGCAATTCAATATATATGTATATACGCCACATTTATTAT
+for             TGATTCTAGCATTTCTGTATCTGCAATTCAATATATATGTATATACGCCACATTTATTAT
+                ************************************************************
+
+rev             AAACTAAGTGCCCCTTCCTCTCATTTTTTTTCGTAAAATTTTAAATACTCGAACGGTCGA
+for             AAACTAAGTGCCCCTTCCTCTCATTTTTTTTC..AAAATTTTAAA.ACTCGAACGGTCGT
+                ********************************  *********** ************* 
+
+rev             TTCTTTTCTTTTTTTCTATATTCATATTAATTATGAATAACAAAAGAATGAAAAGTTAAT
+for             TTCTTTTCTTTTTTTCTATATTCATATTAATTATGAATAACAAAAGAATGAAAAGTTAAT
+                ************************************************************
+
+rev             AGCGAAGATTCTCGGAATTTAGGAAATTCCTATT...CCGCATATACAATG.TCTTAT..
+for             AGCGAAGATTCTCGGAATTTAGGAAATTCCTATTTCTCCGCATATACAATTGCTCTTATG
+                **********************************   *************     *    
+
+rev             G................------------------------------
+for             TGAGCCCGCTTAGCTCAG.....AGAGCATCGC.TTTG.........
+                                                               
