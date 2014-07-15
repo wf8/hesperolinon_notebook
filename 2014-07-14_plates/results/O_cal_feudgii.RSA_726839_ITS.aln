@@ -1,0 +1,34 @@
+CLUSTAL W (1.81) multiple sequence alignment
+
+
+rev             TT.GCAGG.........T........TT..T..T.G..AT.AGCAA.GTA.G..CCAAGC
+for             -----C......................GCTTGC..A.CGACACGTC.C..GTATGCCTT
+                        ********* ********    *   *  *     *      **        
+
+rev             CCCAAGGA.T.GT.CAACAC.TGC.TGATAGTCGTT.GC.AGAAG.GTTAAACA.TTGAT
+for             TTCA.TTGTTGGCTCAAGTTTTACTTGGCTATTGTGGGTTTCCTGTGCTA.ATACCTATC
+                  **     * *  ***    * * **    * **  *      * * ** * *  *   
+
+rev             TTGGGG.T.TTAAAGGCCCAAGAGCCATACCCT.TCAAT.TT..AT.T.CAAGAGATCAA
+for             GTGAAGGCATTCAAATGTTTTACA.A..A..C.A.CT.GTGTTGCTCCTA.TGGGTGCGG
+                 **  *   ** **              *  *   *     *   *      * *  *  
+
+rev             GCACAACATCATGGTTCAACAACCAAAGCATGAACATGCATGCAAAGGAGGTGAAAC.CA
+for             TGTTGGTGGACCTCAAATCATACATTG.GTTTCACCTCC.TTGCATGCATGTTCATGCTT
+                                     **       *  ** * * *   * * * **  *     
+
+rev             ATGT.TGATTTGAGGTCCACCAACACCGCACCC..TAGGAGCAACAC.AGATGG..T..T
+for             TGGTTGTTGAACCATGATGTTGTGCTTGATCTCTTG.A.ATG.AA.ATTGA.AGGGTATG
+                  **                       *  * *      *   *     **  *  *   
+
+rev             .TGTAAAACATTTGAATGC.TTC.CGATAGGTAT.TAGCACAGGAAACCCACAATAGCCA
+for             GCTCTTGGGCCTTTAA.AACCCCAAATCAAGTGTTTAAC.CTTCT.GC.AAC.A..AT.A
+                           ** **      *     * ** * ** * *      *  ** *     *
+
+rev             AGTAAAACTTGAGCCAACA..GAAAAGGCATA....GACGTGTCG..G.G..AGCA....
+for             TG.ATGTGTTG.ACGA.TC.TTGGGGCTTGGC....AC.TTG...A...C........A.
+                 * *    ***  * *   *            ****    **    * * **    ** *
+
+rev             .................---
+for             .....AAAAA.....ATCC.
+                *****     *****     
