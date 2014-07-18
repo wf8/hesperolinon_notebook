@@ -3481,7 +3481,7 @@ TTCGTAAAATTG-GAAATACTCCAACGGTCTATTC-TTTCT--TTTTTTCTATATTCATATTAATTATGAATAACAAAAG
 AATGAAAAGTTAATAGCGAAGATTCCAAGAATTTAGGAAATTCCTATTCCTCCGC-------------------------
 ----------------------------------------ATATACAATTGCTCTTATGTGAGCCCGCTTAGCTCAGAGG
 TT----
-> 01-JEPS-101971
+> 01JEPS101971
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -3524,7 +3524,7 @@ TTCGTAAAATTT-TAAATACTCGAACGGTCGATTCTTTTCT--TTTTTTCTATATTCATATTAATTATGAATAACAAAAG
 AATGAAAAGTTAATAGCGAAGATTCTCGGAATTTAGGAAATTCCTATTTCTCCGC-------------------------
 ----------------------------------------ATATACAATTGNNNTNNTGTGAGCCCGCTTAGCTCAGAGG
 TTAGAG
-> 04-JEPS-98477
+> 04JEPS98477
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -3567,7 +3567,7 @@ TTCGTAAAATTT-TAAATACTCGAACGGTCGNTTCTTTTCT--TTTTTTCTATATTCATATTAATTATGAATAACAAAAG
 AATGAAAAGTTAATAGCGAAGATTCTCGGAATTTAGGAAATTCCTATTTCTCCGC-------------------------
 ----------------------------------------ATATACAATNGNNNTNNTGNGAGCCCGCTTAGCTCAGNNN
 NNAGAG
-> 04-JEPS-98553
+> 04JEPS98553
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -3610,7 +3610,7 @@ TTCGTAAAATTT-TAAATACTCGAACGGTCGATTCTTTTCT--TTTTTTCTATATTCATATTAATTATGAATAACAAAAG
 AATGAAAAGTTAATAGCGAAGATTCTCGGAATTTAGGAAATTCCTATTNN-CCGC-------------------------
 ----------------------------------------ATATACAAT-GCTCTTA-----------------------
 ------
-> 08-JEPS-105293
+> 08JEPS105293
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -3653,7 +3653,7 @@ TTCGTAAAATTT-TAAATACTCGAACGGTCGATTCTTTTCT--TTTTTTCTATATTCATATTAATTATGAATAACAAAAG
 AATGAAAAGTTAATAGCGAAGATTCTCGGAATTTAGGAAATTCCTATTTCTCCGC-------------------------
 ----------------------------------------ATATACAATNGNNNTNNTGNGAGCCCGCTTAGCTCAGAGG
 TTAGAG
-> 08-JEPS-108288
+> 08JEPS108288
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -3696,7 +3696,7 @@ TTCGTAAAATTT-TAAATACTCGAACGGTCGATTCTTTTCT--TTTTTTCTATATTCATATTAATTATGAATAACAAAAG
 AATGAAAAGTTAATAGCGAAGATTCTCGGAATTTAGGAAATTCCTATTTCTCCGC-------------------------
 ----------------------------------------ATATACAATNNNNNTNNNNNNNGCCCGCTTAGCTCAGAGG
 TTAGAG
-> 08-JEPS-85765
+> 08JEPS85765
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -3739,7 +3739,7 @@ TTCGTAAAATTT-TAAATACTCGAACGGTCGATTCTTTTCT--TTTTTTCTATATTCATATTAATTATGAATAACAAAAG
 AATGAAAAGTTAATAGCGAAGATTCTCGGAATTTAGGAAATTCCTATTTCNCNGN-------------------------
 ----------------------------------------NNNNNNANNNNCTNNTATGTGAGCCCGCTTAGCTCAGAGG
 TTAGAG
-> 08-ODell-3
+> 08ODell3
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -3761,28 +3761,28 @@ ACGACTCATAAACNTTACATATTGGAATCATATATCANTGC---------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
-------
-> 08-UC-1212496
+---------------------------------GGGTCTATGTCAATTAAAGTCAATTAAAAAAAAGGTTGAAAAAAACA
+TTTCAAAGTTTTTTTCCAATGTCAGAAACGTTTTATNTCCT------AAAAAAAAAACGATTTTGTAAGTTTCAGTCCGA
+ATAATGATTTTGATTGTTAATCATTACAATTTCCAGGGGGTCCCGAGTTTTGC-------TCAAATAAAAGNTGTTCATT
+TCTATGTGTATCATATCTATTACAAGACTTAACTTGTGAAAAG-AAAAAAAAAATTA--CCCCCCAATACTTTTATAAAA
+GAATTC-----AATGAATGAGAAAGATAAGGAATTTGAAACCGTTAACGAAAAGAGAGAATAGGATATAAA-TAATTCAG
+GAGTCGAACAGGCCTTTTTTGGGGATAGAGGGACTTGAACCCTCACGATTTCTAAAGTCGACGGATTTTCCTCTTACT-A
+TAAATTTCCTTGTTGTCAATACTGACATGTAGAATAGGACTCTATCTTTATTCTTGTCCGATTAATCTGTTATCTATCAG
+ACTTTGGAGTGAATTATTTGATCAATTAATATTCGATTCTTTCTTCAATTTGGAATCGATCCAAAACTC-TTTTTTTCTC
+TAGAAAAAAA--------------------AATCG--AAAAAAAAGGATAAGGATTCGGGTTAGTTATCATTAATCATTT
+GAGATAGTATTTCAGTACCCCNACATATGTATAANAANATGTNTATNGNGTTGNNNNTTANTTTA-TTTTTTCTNTTCNN
+NNNGTTTTGNGTTTNGGTNTGANNGANGNATTNCTTTNNTNNACN-AACNNNNGGNGGNCACCTCCATTTGTTAGAACAG
+CTTCCATCGAGTNTNTGNNCCTNTCCTGNTTTNTTNTGTCTTTNNGNAT--TTTTTTTTTTCGGAAAACAGGATTNGGCN
+CANNANNNCCCCTTTGTTANTNNCAGGGTT--------------------------------------ATATCCCCCCTT
+TT----TTGAGATTTAAATCATAATCTTATTCTTGAATATTATGATTATTGTG--GTATTGTGTCATTTTTTTCTTTCAT
+TTAGATTTCTATTCTACTGGCTACTAGAACTGTTGAAATCATTAGATACCGAGTCCTAGAAAAGCCTTT-TCTCTTA-TT
+TTTTTTCTTGGA-TACCCTC-TTTCATTTCATTTCTATCGGAAACCTATATTTGGTCTACTTACAAATGATTCTAGCATT
+TCTGTATCTGCAATTCAATATATATGTATATACGCCACATTTATTATAAACTAAGTGCCCCTT-CCTCTCA--TTTTTTT
+TTCGTAAAATTT-TAAATACTCGAACGGTCGATTCTTTTCT--TTTTTTCTATATTCATATTAATTATGAATAACAAAAG
+AATGAAAAGTTAATAGCGAAGATTCTCGGAATTTAGGAAATTCCTATTTCTCCGC-------------------------
+----------------------------------------ATATACAATNNNNNTNNTGNGAGCCCGCTTAGCTCAGAGG
+TTAGAG
+> 08UC1212496
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -3825,7 +3825,7 @@ TNNGTAAAATTT-TAAATACTCGAACGGTCGATTCTTTTCT--TTTTTTCTATATTCATATTAATTATGAATAACAAAAG
 AATGAAAAGTTAATAGCGAAGATTCTCGGAATTTAGGAAATTCCTATTNCTCCGC-------------------------
 ----------------------------------------ATATACAAT-GCTCTTAT----------------------
 ------
-> 08-UC-1212503
+> 08UC1212503
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -3868,7 +3868,7 @@ TTCGTAAAATTT-TAAATACTCGAACGGTCGATTCTTTTCT--TTTTTTCTATATTCATATTAATTATGAATAACAAAAG
 AATGAAAAGTTAATAGCGAAGATTCTCGGAATTTAGGAAATTCCTATTTCTCCGC-------------------------
 ----------------------------------------ATATACAATNGNNNTNNNGNGAGCCCGCTTAGCTCAGAGG
 TTAGAG
-> 10-JEPS-117584
+> 10JEPS117584
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -3911,7 +3911,7 @@ TTCGTAAAATTT-TAAATACTCGAACGGTCGATTCTTTTCT--TTTTTTCTATATTCATATTAATTATGAATAACAAAAG
 AATGAAAAGTTAATAGCGAAGATTCTCGGAATTTAGGAAATTCCTATTTCTCCG--------------------------
 ----------------------------------------ANNNNNNANTGCTCTTATGTGAGCCCGCTTAGCTCAGAGG
 TTAGAG
-> 10-JEPS-27391
+> 10JEPS27391
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -3954,7 +3954,7 @@ TTCGTAAAATTT-TAAATACTCGAACGGTCGATTCTTTTCT--TTTTTTCTATATTCATATTAATTATGAATAACAAAAG
 AATGAAAAGTTAATAGCGAAGATTCTCGGAATTTAGGAAATTCCTATTTCTCCGC-------------------------
 ----------------------------------------ATATACAATTGCTCTTATGTGAGCCCGCTTAGCTCAGAGG
 TTAGAG
-> 10-JEPS-29946
+> 10JEPS29946
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -3997,7 +3997,7 @@ TTCGTAAAATTT-TAAATACTCGAACGGTCGATTCTTTTCT--TTTTTTCTATATTCATATTAATTATGAATAACAAAAG
 AATGAAAAGTTAATAGCGAAGATTCTCGGAATTTAGGAAATTCCTATTTCNCCGN-------------------------
 ----------------------------------------ATATANAAT-GNTCTTATG---------------------
 ------
-> 10-JEPS-85144
+> 10JEPS85144
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -4040,7 +4040,7 @@ TTCGTAAAATTT-TAAATACTCGAACGGTCGATTCTTTTCT--TTTTTTCTATATTCATATTAATTATGAATAACAAAAG
 AATGAAAAGTTAATAGCGAAGATTCTCGGAATTTAGGAAATTCCTATTTCTCCGC-------------------------
 ----------------------------------------ATATACAATTGCTCTTATGTGAGCCCGCTTAGCTCAGAGG
 TTANNA
-> 10-JEPS-9289
+> 10JEPS9289
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -4083,7 +4083,7 @@ TTCGTAAAATTT-TAAATACTCGAACGGTCGATTCTTTTCT--TTTTTTCTATATTCATATTAATTATGAATAACAAAAG
 AATGAAAAGTTAATAGCGAAGATTCTCGGAATTTAGGAAATTCCTATTTCTCCGC-------------------------
 ----------------------------------------ATATACAATTNNNCTNNTGNGAGCCCGCTTAGCTCAGAGG
 TTAGAG
-> 10-JEPS-94421
+> 10JEPS94421
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -4126,7 +4126,7 @@ TTCGTAAAATTT-TAAATACTCGAACGGTCGATTCTTTTCT--TTTTTTCTATATTCATATTAATTATGAATAACAAAAG
 AATGAAAAGTTAATAGCGAAGATTCTCGGAATTTAGGAAATTCCTATTNCCCGNN-------------------------
 ----------------------------------------ATNTNCAATNGNTCTNATNTGNGCNNGCTTAGCTCAGAGG
 TTAGAG
-> 10-JEPS-98004
+> 10JEPS98004
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -4169,7 +4169,7 @@ TTCGTAAAATTT-TAAATACTCGAACGGTCGATTCTTTTCT--TTTTTTCTATATTCATATTAATTATGAATAACAAAAG
 AATGAAAAGTTAATAGCGAAGATTCTCGGAATTTAGGAAATTCCTATTTCTCCGC-------------------------
 ----------------------------------------ATATACAATNNNNNTNNTGNGANCCCGCTTAGCTCAGAGG
 TTAGAG
-> 10-JEPS-98046
+> 10JEPS98046
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -4212,7 +4212,7 @@ TTCGTAAAATTT-TAAATACTCGAACGGTCGATTCTTTTCT--TTTTTTCTATATTCATATTAATTATGAATAACAAAAG
 AATGAAAAGTTAATAGCGAAGATTCTCGGAATTTAGGAAATTCCTATTTCTCCGC-------------------------
 ----------------------------------------ATATACAATNGNNNTNNTNTGAGCCCGCTTAGCTCAGAGG
 TTAGAG
-> 10-JEPS-98429
+> 10JEPS98429
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -4255,7 +4255,7 @@ TTCGTAAAATTT-TAAATACTCGAACGGTCGATTCTTTTCT--TTTTTTCTATATTCATATTAATTATGAATAACAAAAG
 AATGAAAAGTTAATAGCGAAGATTCTCGGAATTTAGGAAATTCCTATTTCTCCGC-------------------------
 ----------------------------------------ATATACAATTGCTCTTATGTGAGCCCGCTTAGCTCAGAGG
 TTAGAG
-> 10-ODell-2
+> 10ODell2
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -4278,27 +4278,27 @@ ACGACTCATAAACCTTACATATTGGAATCATATATNATNGCT--------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
+------------TTCCTAA----------------------------AAAAAAAAAACGATTTTGTAAGTTTCAGTCCGA
+ATAATGATTTTGATTGTTAATCATTACAATTTCCAGGGGGTCCCGAGTTTTGC-------TCAAATAAAAGNNGTTCATT
+TCTATGNGTATCATATCTATTACAAGACTTAACTTNNGAAAAG-NAAAAAAAAATTN--CCCCCCAATACTTTTATAAAA
+GAATTC-----AATGAATGAGAAAGATAAGGAATTTGAAACCGTTAACGAAAAGAGAGAATAGGATATAAA-TAATTCAG
+GAGTCGAACAGGCCTTTTTTGGGGATAGAGGGACTTGAACCCTCACGATTTCTAAAGTCGACGGATTTTCCTCTTACT-A
+TAAATTTCCTTGTTGTCAATACTGACATGTAGAATAGGACTCTATCTTTATTCTTGTCCGATTAATCTGTTATCTATCAG
+ACTTTGGAGTGAATTATTTGATCAATTAATATTCGATTCTTTCTTCAATTTGGAATCGATCCAAAACTC-TTTTTTTCTC
+TAGAAAAAAA--------------------AATCG--AAAAAAAAGGATAAGGATTCGGGTTAGTTATCATTAATCATTT
+GAGATAGTATTTCAGTACCCCTACATATGTATAATAATATGTATATCGGGTTATCCTTTACTTTA-TTTTTTCTA-----
+--------GAGTTTTGGTTTGATCGAAGGATTCCTTTACTTTACC-AAAGNAAGGCGGTCACCTCCATTTGTTAGAACAG
+CTTCCATCGAGTCTCTGCACCTATCCTGTTTTATTCTGTCTTTAGGAAT--TTTTTTTTTTCGGAAAACAGGATTTGGCT
+CAGGATTGCCCCTTTGTTAATTCCAGGGTTTCTCTGAATNNGAAAGGTNTCACTTAGTAAGT--------ATCCCCCCTT
+TT----TTGAGATTTAAATCATAATCTTATTCTTGAATATTATGATTATTGTG--GTATTGTGTCATTTTTTTCTTTCAT
+TTAGATTTCTATTCTACTGGCTACTAGAACTGTTGAAATCATTAGATACCGAGTCCTAGAAAAGCCTTT-TCTCTTA-TT
+TTTTTTCTTGGA-TACCCTC-TTTCATTTCATTTCTATCGGAAACCTATATTTGGTCTACTTACAAATGATTCTAGCATT
+TCTGTATCTGCAATTCAATATATATGTATATACGCCACATTTATTATAAACTAAGTGCCCCTT-CCTCTCA---TTTTTT
+TTNNNNAAATTTTTAAATACTCGAACGGTCGATTCTTTTCT--TTTTTTCTATATTCATATTAATTATGAATAACAAAAG
+AATGAAAAGTTAATAGCGAAGATTCTCGGAATTTAGGAAATTCCTATTTCTCCGN-------------------------
+----------------------------------------ATATANAAT-GCTCTTAT----------------------
 ------
-> 10-UC-1583670
+> 10UC1583670
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -4341,7 +4341,7 @@ TTCGTAAAATTT-TAAATACTCGAACGGTCGATTCTTTTCT--TTTTTTCTATATTCATATTAATTATGAATAACAAAAG
 AATGAAAAGTTAATAGCGAAGATTCTCGGAATTTAGGAAATTCCTATTTCTCCGC-------------------------
 ----------------------------------------ATATACAATNGNNNTNNTGNGAGCCCGCTTAGCTCAGAGG
 TTAGAG
-> 10-UC-1790116
+> 10UC1790116
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -4384,7 +4384,7 @@ TTCGTAAAATTT-TAAATACTCGAACGGTCGATTCTTTTCT--TTTTTTCTATATTCATATTAATTATGAATAACAAAAG
 AATGAAAAGTTAATAGCGAAGATTCTCGGAATTTAGGAAATTCCTATTTCTCCGC-------------------------
 ----------------------------------------ATATACAATTGNNNTNNTGNGAGCCCGCTTAGCTCAGAGG
 TTAGAG
-> 10-UC-762268
+> 10UC762268
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -4427,7 +4427,7 @@ TTCGTAAAATTT-TAAATACTCGAACGGTCGATTCTTTTCT--TTTTTTCTATATTCATATTAATTATGAATAACAAAAG
 AATGAAAAGTTAATAGCGAAGATTCTCGGAATTTAGGAAATTCCTATTNNNCNGN-------------------------
 ----------------------------------------NNNNANANNTNCTNNTATGTGAGCCCGCTTAGCTCAGAGG
 TTAGAG
-> 11-ODell-1
+> 11ODell1
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -4449,28 +4449,28 @@ ACGACTCANAAACCTTACATATTGGAATCATATATCATTGCTATTCGTTTTCTCTTTTTCTGNCA-CCCTNCCATT----
 --------------------------------------------------------------------------------
 ------------------ATCTA---------------------------------------------------------
 --------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
+-----------------------------------------------------------AAAAAAANGNTGNAAAA-AAC
+ATTTCAAANTTTTTTCCAATGTCAGAAACGTTTTATATCCT------AAAAAAAAAACGATTTTGTAAGTTTCAGTCCGA
+ATAATGATTTTGATTGTTAATCATTACAATTTCCAGGGGGTCCCGAGTTTTGC-------TCAAATAAAAGATGTTCATT
+TCTATGTGTATCATATCTATTACAAGACTTAACTTGTGAAAAG--AAAAAAAAATTA--CCCCCCAATACTTTTATAAAA
+GAATTC-----AATGAATGAGAAAGATAAGGAATTTGAAACCGTTAACGAAAAGAGAGAATAGGATATAAA-TAATTCAG
+GAGTCGAACAGGCCTTTTTTGGGGATAGAGGGACTTGAACCCTCACGATTTCTAAAGTCGACGGATTTTCCTCTTACT-A
+TAAATTTCCTTGTTGTCAATACTGACATGTAGAATAGGACTCTATCTTTATTCTTGTCCGATTAATCTGTTATCTATCAG
+ACTTTGGAGTGAATTATTTGATCAATTAATATTCGATTCTTTCTTCAATTTGGAATCGATCCAAAACTC-TTTTTTTCTC
+TAGAAAAAAA--------------------AATCG--AAAAAAAAGGATAAGGATTCGGGTTAGTTATCATTAATCATTT
+GAGATAGTATTTCAGTACCCCTACATATGTATAATAATATGTATATCGGGTTATCCTTTACGTTATTTTTTTCTA-----
+--------GAGTTTTGGTTTGATCGAAGGATTCCTTTACTTTACC-AACGCAAGGCGGTCACCTCCATTTGTTAGAACAG
+CTTCCATCGAGTCTCTGCACCTATCCTGTTTTATTCTGTCTTTAGGAA---TTTTTTTTTTCGGAAAACAGGATTTGGCT
+CAGGATTGCCCCTTTGTTAATTCCAGGGTTTCTCTGANTTGNAANGGT---------------------TATCCCCCCTT
+TT----TTGAGATTTAAATCATAATCTTATTCTTGAATATTATGATTATTGTG--GTATTGTGTCATTTTTTTCTTTCAT
+TTAGATTTCTATTCTACTGGCTACTAGAACTGTTGAAATCATTAGATACCGAGTCCTAGAAAAGCCTTT-TCTCTTA-TT
+TTTTTTCTTGGA-TACCCTC-TTTCATTTCATTTCTATCGGAAACCTATATTTGGTCTACTTACAAATGATTCTAGCATT
+TCTGTATCTGCAATTCAATATATATGTATATACGCCACATTTATTATAAACTAAGTGCCCCTT-CCTCTCA---TTTTTT
+TTCGTAAAATTTNNNAATACTCGAACGGTCGATTCTTTTCT--TTTTTTCTATATTCATATTAATTATGAATAACAAAAG
+AATGAAAAGTTAATAGCGAAGATTCTCGGAATTTAGGAAATTCCTATTTCTCCGC-------------------------
+----------------------------------------ATATNCAAT-GNTCTTAT----------------------
 ------
-> CLSE-UC-1531894
+> CLSEUC1531894
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -4513,7 +4513,7 @@ TTCGTAAAATTT-CAAATACTCGAACGGTCGATTCTTTTCT--TTTTTTCTATATTCATATTAATTATGAATAACAAAAG
 AATGAAAAGTTAATAGCGAAGATTCTCGGAATTTAGGAAATTCCTATTTCTCCGC-------------------------
 ---------------------------------------NNTATACANATGCTCTTATA-------GTCNANNNCCGCGA
 ------
-> LIBI-AS-320
+> LIBIAS320
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -4556,7 +4556,7 @@ CAGGATTGCCCCTTTGTTAATTCCAGGGTTTCTCTGAATTTNAA------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 ------
-> LILE-CMG-1541
+> LILECMG1541
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -4599,50 +4599,7 @@ TTCGTAAAANTNGGAAATACTCGAACGGTCTATTCTTTTCTTGTTTTTTCTATATTCATATTAATTTTGAATAACAAAAG
 AATGGAAAGTTAATAGCGAAGATTCCAGGAATTTAGGAAATTTTTNTTCCTCCGC-------------------------
 ----------------------------------------ATNNCCAACTGCTNCTAN----------------------
 ------
-> 08-O-Dell-3
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
----------------------------------GGGTCTATGTCAATTAAAGTCAATTAAAAAAAAGGTTGAAAAAAACA
-TTTCAAAGTTTTTTTCCAATGTCAGAAACGTTTTATNTCCT------AAAAAAAAAACGATTTTGTAAGTTTCAGTCCGA
-ATAATGATTTTGATTGTTAATCATTACAATTTCCAGGGGGTCCCGAGTTTTGC-------TCAAATAAAAGNTGTTCATT
-TCTATGTGTATCATATCTATTACAAGACTTAACTTGTGAAAAG-AAAAAAAAAATTA--CCCCCCAATACTTTTATAAAA
-GAATTC-----AATGAATGAGAAAGATAAGGAATTTGAAACCGTTAACGAAAAGAGAGAATAGGATATAAA-TAATTCAG
-GAGTCGAACAGGCCTTTTTTGGGGATAGAGGGACTTGAACCCTCACGATTTCTAAAGTCGACGGATTTTCCTCTTACT-A
-TAAATTTCCTTGTTGTCAATACTGACATGTAGAATAGGACTCTATCTTTATTCTTGTCCGATTAATCTGTTATCTATCAG
-ACTTTGGAGTGAATTATTTGATCAATTAATATTCGATTCTTTCTTCAATTTGGAATCGATCCAAAACTC-TTTTTTTCTC
-TAGAAAAAAA--------------------AATCG--AAAAAAAAGGATAAGGATTCGGGTTAGTTATCATTAATCATTT
-GAGATAGTATTTCAGTACCCCNACATATGTATAANAANATGTNTATNGNGTTGNNNNTTANTTTA-TTTTTTCTNTTCNN
-NNNGTTTTGNGTTTNGGTNTGANNGANGNATTNCTTTNNTNNACN-AACNNNNGGNGGNCACCTCCATTTGTTAGAACAG
-CTTCCATCGAGTNTNTGNNCCTNTCCTGNTTTNTTNTGTCTTTNNGNAT--TTTTTTTTTTCGGAAAACAGGATTNGGCN
-CANNANNNCCCCTTTGTTANTNNCAGGGTT--------------------------------------ATATCCCCCCTT
-TT----TTGAGATTTAAATCATAATCTTATTCTTGAATATTATGATTATTGTG--GTATTGTGTCATTTTTTTCTTTCAT
-TTAGATTTCTATTCTACTGGCTACTAGAACTGTTGAAATCATTAGATACCGAGTCCTAGAAAAGCCTTT-TCTCTTA-TT
-TTTTTTCTTGGA-TACCCTC-TTTCATTTCATTTCTATCGGAAACCTATATTTGGTCTACTTACAAATGATTCTAGCATT
-TCTGTATCTGCAATTCAATATATATGTATATACGCCACATTTATTATAAACTAAGTGCCCCTT-CCTCTCA--TTTTTTT
-TTCGTAAAATTT-TAAATACTCGAACGGTCGATTCTTTTCT--TTTTTTCTATATTCATATTAATTATGAATAACAAAAG
-AATGAAAAGTTAATAGCGAAGATTCTCGGAATTTAGGAAATTCCTATTTCTCCGC-------------------------
-----------------------------------------ATATACAATNNNNNTNNTGNGAGCCCGCTTAGCTCAGAGG
-TTAGAG
-> 10-JEPS-99502
+> 10JEPS99502
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -4685,93 +4642,7 @@ TTCGTAAAATTT-TAAATACTCGAACGGTCGATTCTTTTCT--TTTTTTCTATATTCATATTAATTATGAATAACAAAAG
 AATGAAAAGTTAATAGCGAAGATTCTCGGAATTTAGGAAATTCCTATTTCTCCGC-------------------------
 ----------------------------------------ATATACAANTNCTCTTATNTGAGCCCGCTTAGCTCAGAGG
 TTAGAN
-> 10-O-Dell-2
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
-------------TTCCTAA----------------------------AAAAAAAAAACGATTTTGTAAGTTTCAGTCCGA
-ATAATGATTTTGATTGTTAATCATTACAATTTCCAGGGGGTCCCGAGTTTTGC-------TCAAATAAAAGNNGTTCATT
-TCTATGNGTATCATATCTATTACAAGACTTAACTTNNGAAAAG-NAAAAAAAAATTN--CCCCCCAATACTTTTATAAAA
-GAATTC-----AATGAATGAGAAAGATAAGGAATTTGAAACCGTTAACGAAAAGAGAGAATAGGATATAAA-TAATTCAG
-GAGTCGAACAGGCCTTTTTTGGGGATAGAGGGACTTGAACCCTCACGATTTCTAAAGTCGACGGATTTTCCTCTTACT-A
-TAAATTTCCTTGTTGTCAATACTGACATGTAGAATAGGACTCTATCTTTATTCTTGTCCGATTAATCTGTTATCTATCAG
-ACTTTGGAGTGAATTATTTGATCAATTAATATTCGATTCTTTCTTCAATTTGGAATCGATCCAAAACTC-TTTTTTTCTC
-TAGAAAAAAA--------------------AATCG--AAAAAAAAGGATAAGGATTCGGGTTAGTTATCATTAATCATTT
-GAGATAGTATTTCAGTACCCCTACATATGTATAATAATATGTATATCGGGTTATCCTTTACTTTA-TTTTTTCTA-----
---------GAGTTTTGGTTTGATCGAAGGATTCCTTTACTTTACC-AAAGNAAGGCGGTCACCTCCATTTGTTAGAACAG
-CTTCCATCGAGTCTCTGCACCTATCCTGTTTTATTCTGTCTTTAGGAAT--TTTTTTTTTTCGGAAAACAGGATTTGGCT
-CAGGATTGCCCCTTTGTTAATTCCAGGGTTTCTCTGAATNNGAAAGGTNTCACTTAGTAAGT--------ATCCCCCCTT
-TT----TTGAGATTTAAATCATAATCTTATTCTTGAATATTATGATTATTGTG--GTATTGTGTCATTTTTTTCTTTCAT
-TTAGATTTCTATTCTACTGGCTACTAGAACTGTTGAAATCATTAGATACCGAGTCCTAGAAAAGCCTTT-TCTCTTA-TT
-TTTTTTCTTGGA-TACCCTC-TTTCATTTCATTTCTATCGGAAACCTATATTTGGTCTACTTACAAATGATTCTAGCATT
-TCTGTATCTGCAATTCAATATATATGTATATACGCCACATTTATTATAAACTAAGTGCCCCTT-CCTCTCA---TTTTTT
-TTNNNNAAATTTTTAAATACTCGAACGGTCGATTCTTTTCT--TTTTTTCTATATTCATATTAATTATGAATAACAAAAG
-AATGAAAAGTTAATAGCGAAGATTCTCGGAATTTAGGAAATTCCTATTTCTCCGN-------------------------
-----------------------------------------ATATANAAT-GCTCTTAT----------------------
-------
-> 11-O-Dell-1
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
---------------------------------------------------------------------------------
------------------------------------------------------------AAAAAAANGNTGNAAAA-AAC
-ATTTCAAANTTTTTTCCAATGTCAGAAACGTTTTATATCCT------AAAAAAAAAACGATTTTGTAAGTTTCAGTCCGA
-ATAATGATTTTGATTGTTAATCATTACAATTTCCAGGGGGTCCCGAGTTTTGC-------TCAAATAAAAGATGTTCATT
-TCTATGTGTATCATATCTATTACAAGACTTAACTTGTGAAAAG--AAAAAAAAATTA--CCCCCCAATACTTTTATAAAA
-GAATTC-----AATGAATGAGAAAGATAAGGAATTTGAAACCGTTAACGAAAAGAGAGAATAGGATATAAA-TAATTCAG
-GAGTCGAACAGGCCTTTTTTGGGGATAGAGGGACTTGAACCCTCACGATTTCTAAAGTCGACGGATTTTCCTCTTACT-A
-TAAATTTCCTTGTTGTCAATACTGACATGTAGAATAGGACTCTATCTTTATTCTTGTCCGATTAATCTGTTATCTATCAG
-ACTTTGGAGTGAATTATTTGATCAATTAATATTCGATTCTTTCTTCAATTTGGAATCGATCCAAAACTC-TTTTTTTCTC
-TAGAAAAAAA--------------------AATCG--AAAAAAAAGGATAAGGATTCGGGTTAGTTATCATTAATCATTT
-GAGATAGTATTTCAGTACCCCTACATATGTATAATAATATGTATATCGGGTTATCCTTTACGTTATTTTTTTCTA-----
---------GAGTTTTGGTTTGATCGAAGGATTCCTTTACTTTACC-AACGCAAGGCGGTCACCTCCATTTGTTAGAACAG
-CTTCCATCGAGTCTCTGCACCTATCCTGTTTTATTCTGTCTTTAGGAA---TTTTTTTTTTCGGAAAACAGGATTTGGCT
-CAGGATTGCCCCTTTGTTAATTCCAGGGTTTCTCTGANTTGNAANGGT---------------------TATCCCCCCTT
-TT----TTGAGATTTAAATCATAATCTTATTCTTGAATATTATGATTATTGTG--GTATTGTGTCATTTTTTTCTTTCAT
-TTAGATTTCTATTCTACTGGCTACTAGAACTGTTGAAATCATTAGATACCGAGTCCTAGAAAAGCCTTT-TCTCTTA-TT
-TTTTTTCTTGGA-TACCCTC-TTTCATTTCATTTCTATCGGAAACCTATATTTGGTCTACTTACAAATGATTCTAGCATT
-TCTGTATCTGCAATTCAATATATATGTATATACGCCACATTTATTATAAACTAAGTGCCCCTT-CCTCTCA---TTTTTT
-TTCGTAAAATTTNNNAATACTCGAACGGTCGATTCTTTTCT--TTTTTTCTATATTCATATTAATTATGAATAACAAAAG
-AATGAAAAGTTAATAGCGAAGATTCTCGGAATTTAGGAAATTCCTATTTCTCCGC-------------------------
-----------------------------------------ATATNCAAT-GNTCTTAT----------------------
-------
-> 10-JEPS-101012
+> 10JEPS101012
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -4814,7 +4685,7 @@ TTCGTAAAATTT-TAAATACTCGAACGGTCGATTCTTTTCT--TTTTTTCTATATTCATATTAATTATGAATAACAAAAG
 AATGAAAAGTTAATAGCGAAGATTCTCGGAATTTAGGAAATTCCTATTTCTCCGC-------------------------
 ----------------------------------------ATATACAATTGCTCTTATGTGAGCCCGCTTAGCTCAGAGG
 TTAGAG
-> 10-JEPS-101013
+> 10JEPS101013
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -4857,7 +4728,7 @@ TTCGTAAAATTT-TAAATACTCGAACGGTCGATTCTTTTCT--TTTTTTCTATATTCATATTAATTATGAATAACAAAAG
 AATGAAAAGTTAATAGCGAAGATTCTCGGAATTTAGGAAATTCCTATTTCTCCGC-------------------------
 ----------------------------------------ATATACAATNGNNCTNNTGNGAGCCCGCTTAGCTCAGAGG
 TTAGAG
-> 10-UC-1563669
+> 10UC1563669
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -4900,7 +4771,7 @@ TTCGTAAAATTT-TAAATACTCGAACGGTCGATTCTTTTCT--TTTTTTCTATATTCATATTAATTATGAATAACAAAAG
 AATGAAAAGTTAATAGCGAAGATTCTCGGAATTTAGGAAATTCCTATTTCNCCGN-------------------------
 ----------------------------------------ATATACAAT-NCTCTTA-----------------------
 ------
-> LIRU-UC-1391714
+> LIRUUC1391714
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -4943,7 +4814,7 @@ TTCGTAAAATTT-TAAATACTCGAACGGTCGATTCTTTTCT--TTTTTTCTATATTCATATTAANNNTGAATNNCNANNG
 AATGNNAAGTTANTAGCNNAGNNNCNCGNAATNNANGANATTNNTNTTTNNCNGN-------------------------
 ----------------------------------------ATATNCANTTGCTCNTANGNGNNNCCGCTNNGCTNANNGG
 NNAGAG
-> SCDI-JEPS-74374
+> SCDIJEPS74374
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
