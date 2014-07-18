@@ -4,6 +4,8 @@ import os
 import sys
 from Bio import Entrez
 from Bio import SeqIO
+from Bio import AlignIO
+from Bio.Alphabet import IUPAC, Gapped
 
 
 def concatenate(alignments, file_name):
@@ -52,6 +54,11 @@ def concatenate(alignments, file_name):
             f.write(sequence[i:i+80] + "\n")
             i += 80
     f.close()
+
+    # write to nexus file
+    alignment = AlignIO.read(open(file_name), "fasta", alphabet=Gapped(IUPAC.ambiguous_dna))
+    g = open(file_name + ".nex", "w")
+    g.write(alignment.format("nexus"))
 
 
 def make_gaps(length):
