@@ -1,0 +1,14 @@
+Task\ label=MrBayes Combined 3
+Task\ ID=515761
+Tool=MRBAYES_XSEDE
+created\ on=2014-07-18 16:54:01.0
+JobHandle=NGBW-JOB-MRBAYES_XSEDE-264423EBB1AA4B2FA90B1D8258F91123
+resource=gordon
+User\ ID=68621
+User\ Name=freyman@berkeley.edu
+email=freyman@berkeley.edu
+
+Output=(ALL_FILES,*,UNKNOWN,UNKNOWN,UNKNOWN)
+ChargeFactor=1.000000
+cores=8
+JOBID=1437381.gordon-fe2.local

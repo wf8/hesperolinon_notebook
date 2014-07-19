@@ -1,0 +1,10 @@
+/tmp/20140719T00:21:56-cipres-26650.gramauditGateway user attribute (freyman@berkeley.edu) submitted for job 1437379.gordon-fe2.local.
+OK
+Job Id: 1437379.gordon-fe2.local
+    Job_Name = NGBW-JOB-MRBAYES_XSEDE-9595B2713E304F9E9FD8D839E026B926
+    Job_Owner = cipres@gordon-ln1.local
+    resources_used.cput = 03:16:04
+    resources_used.mem = 386384kb
+    resources_used.vmem = 2014412kb
+    resources_used.walltime = 00:24:36
+OK

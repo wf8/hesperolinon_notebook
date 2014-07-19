@@ -1,0 +1,7 @@
+1405737378 Fri Jul 18 19:36:18 PDT 2014
+ExitCode=0
+Job Id: 1437381.gordon-fe2.local
+Resource List: epilogue=/projects/ps-ngbt/backend/gordon_workspace/NGBW-JOB-MRBAYES_XSEDE-264423EBB1AA4B2FA90B1D8258F91123/epilogue.sh,neednodes=gcn-7-57:ppn=8,nodes=1:ppn=8:native,walltime=04:00:00
+Resources Used: cput=16:44:04,mem=586404kb,vmem=2212220kb,walltime=02:06:00
+Queue Name: shared
+

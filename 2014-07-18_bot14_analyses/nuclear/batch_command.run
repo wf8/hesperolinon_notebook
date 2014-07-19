@@ -1,0 +1,40 @@
+#!/bin/bash
+#PBS -q shared
+#PBS -N NGBW-JOB-MRBAYES_XSEDE-8D2E3C73271348C69BDE8385E3F6BCEF
+#PBS -l walltime=00:240:00
+#PBS -l epilogue=/projects/ps-ngbt/backend/gordon_workspace/NGBW-JOB-MRBAYES_XSEDE-8D2E3C73271348C69BDE8385E3F6BCEF/epilogue.sh
+#PBS -o scheduler_stdout.txt
+#PBS -e scheduler_stderr.txt
+#PBS -W umask=0007
+
+##PBS -V
+
+#PBS -v QOS=10
+
+#PBS -M  terri@sdsc.edu,mmiller@sdsc.edu
+#PBS -m ae
+#PBS -A TG-DEB090011
+#PBS -l nodes=1:ppn=8:noflash
+cd /projects/ps-ngbt/backend/gordon_workspace/NGBW-JOB-MRBAYES_XSEDE-8D2E3C73271348C69BDE8385E3F6BCEF
+
+source /etc/profile.d/modules.sh
+
+SDSC-gateway-submit-attributes $PBS_JOBID $(sed -n '/^email=/ {s/email=//; p;}' _JOBINFO.TXT)
+
+export MODULEPATH=/home/diag/jpg/modulefiles/gordon/applications:$MODULEPATH
+
+date +'%s %a %b %e %R:%S %Z %Y' > start.txt
+
+curl -k https://www.phylo.org/portal2/taskupdate.action?taskId=515759\&jh=NGBW-JOB-MRBAYES_XSEDE-8D2E3C73271348C69BDE8385E3F6BCEF\&status=START
+
+export CIPRES_THREADSPP=0
+export CIPRES_NP=8
+
+./batch_command.cmdline 1>stdout.txt 2>stderr.txt
+retval=$?
+
+date +'%s %a %b %e %R:%S %Z %Y' > done.txt
+qstat -f $PBS_JOBID | grep Job
+qstat -f $PBS_JOBID | grep resources
+curl -k https://www.phylo.org/portal2/taskupdate.action?taskId=515759\&jh=NGBW-JOB-MRBAYES_XSEDE-8D2E3C73271348C69BDE8385E3F6BCEF\&status=DONE
+exit $retval
