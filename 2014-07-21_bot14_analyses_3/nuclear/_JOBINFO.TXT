@@ -1,0 +1,14 @@
+Task\ label=MrBayes Nuclear 2 (duplicates removed)
+Task\ ID=516576
+Tool=MRBAYES_XSEDE
+created\ on=2014-07-21 11:58:46.0
+JobHandle=NGBW-JOB-MRBAYES_XSEDE-ACDEC78D34A042CEAAA8C8A6088038C1
+resource=gordon
+User\ ID=68621
+User\ Name=freyman@berkeley.edu
+email=freyman@berkeley.edu
+
+Output=(ALL_FILES,*,UNKNOWN,UNKNOWN,UNKNOWN)
+ChargeFactor=1.000000
+cores=8
+JOBID=1439136.gordon-fe2.local
