@@ -1,0 +1,43 @@
+\documentclass[12pt]{article}
+\usepackage{booktabs}
+\usepackage{adjustbox}
+
+\begin{document}
+
+\begin{table}
+    \center
+    \begin{adjustbox}{max width=\textwidth}
+        \begin{tabular}{llllll}
+            \toprule
+            Gene Region \#&Description&\# of Samples&Aligned Length&Missing Data (\%)&Taxon Coverage Density \\
+            \midrule
+            1&ETS&109&691&7.6&0.92 \\
+            2&ITS&107&677&9.3&0.91 \\
+            3&matK&81&494&31.4&0.69 \\
+            4&rpl16&107&1156&9.3&0.91 \\
+            5&trnLF&100&1058&15.3&0.85 \\
+            6&trnTL&112&578&5.1&0.95 \\
+            \bottomrule
+        \end{tabular}
+    \end{adjustbox}
+    \caption{\textit{Hesperolinon} gene regions sequenced so far...}
+\end{table}
+
+\begin{table}
+    \center
+    \begin{adjustbox}{max width=\textwidth}
+        \begin{tabular}{l|l}
+            \toprule
+            Total number of taxa & 118 \\
+            Total length of matrix & 4654 \\
+            Taxon coverage density & 0.87 \\
+            Total \% gaps & 0.24 \\
+            Partial decisiveness (fraction of triples) & 0.98 \\
+            \bottomrule
+        \end{tabular}
+    \end{adjustbox}
+    \caption{\textit{Hesperolinon} data matrix stats so far...}
+\end{table}
+
+
+\end{document}

@@ -1,0 +1,7 @@
+Gene Region #,Description,# of OTUs,Aligned Length,Missing Data (%),Taxon Coverage Density
+1,alignments/ETS.fas_fixed,109,691,7.6,0.92
+2,alignments/ITS.fas_fixed,107,677,9.3,0.91
+3,alignments/matK.fas_fixed,81,494,31.4,0.69
+4,alignments/rpl16.fas_fixed,107,1156,9.3,0.91
+5,alignments/trnLF.fas_fixed,100,1058,15.3,0.85
+6,alignments/trnTL.fas_fixed,112,578,5.1,0.95
