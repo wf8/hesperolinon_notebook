@@ -1,0 +1,163 @@
+
+SUMAC: supermatrix constructor
+
+Loading user-provided alignments...
+Aligned cluster #: 1
+DNA region: alignments/ETS.fas_simplified.fas_fixed.fas
+OTUs: 109
+Aligned length: 691
+Missing data (%): 5.2
+Taxon coverage density: 0.95
+Aligned cluster #: 2
+DNA region: alignments/ITS.fas_simplified.fas_fixed.fas
+OTUs: 107
+Aligned length: 677
+Missing data (%): 7.0
+Taxon coverage density: 0.93
+Aligned cluster #: 3
+DNA region: alignments/matK.fas_simplified.fas
+OTUs: 81
+Aligned length: 494
+Missing data (%): 29.6
+Taxon coverage density: 0.7
+Aligned cluster #: 4
+DNA region: alignments/rpl16.fas_simplified.fas
+OTUs: 107
+Aligned length: 1156
+Missing data (%): 7.0
+Taxon coverage density: 0.93
+Aligned cluster #: 5
+DNA region: alignments/trnLF.fas_simplified.fas
+OTUs: 100
+Aligned length: 1058
+Missing data (%): 13.0
+Taxon coverage density: 0.87
+Aligned cluster #: 6
+DNA region: alignments/trnTL.fas_simplified.fas
+OTUs: 112
+Aligned length: 578
+Missing data (%): 2.6
+Taxon coverage density: 0.97
+Concatenating alignments...
+Supermatrix attributes:
+OTU:  0102 % gaps = 0.11
+OTU:  0103 % gaps = 0.11
+OTU:  0104 % gaps = 0.11
+OTU:  0106 % gaps = 0.1
+OTU:  0107 % gaps = 0.1
+OTU:  01JEPS101971 % gaps = 0.27
+OTU:  0201 % gaps = 0.11
+OTU:  0202 % gaps = 0.11
+OTU:  0203 % gaps = 0.11
+OTU:  0204 % gaps = 0.11
+OTU:  0205 % gaps = 0.11
+OTU:  0301 % gaps = 0.1
+OTU:  0302 % gaps = 0.11
+OTU:  0303 % gaps = 0.1
+OTU:  0304 % gaps = 0.1
+OTU:  0305 % gaps = 0.09
+OTU:  0401 % gaps = 0.1
+OTU:  0402 % gaps = 0.1
+OTU:  0403 % gaps = 0.1
+OTU:  0404 % gaps = 0.1
+OTU:  0405 % gaps = 0.1
+OTU:  0406 % gaps = 0.1
+OTU:  0407 % gaps = 0.11
+OTU:  0408 % gaps = 0.1
+OTU:  0409 % gaps = 0.1
+OTU:  0410 % gaps = 0.1
+OTU:  0411 % gaps = 0.1
+OTU:  0412 % gaps = 0.12
+OTU:  0413 % gaps = 0.11
+OTU:  0414 % gaps = 0.21
+OTU:  0415 % gaps = 0.1
+OTU:  0416 % gaps = 0.1
+OTU:  04JEPS98477 % gaps = 0.32
+OTU:  04JEPS98553 % gaps = 0.31
+OTU:  0502 % gaps = 0.1
+OTU:  0503 % gaps = 0.11
+OTU:  0504 % gaps = 0.1
+OTU:  0506 % gaps = 0.21
+OTU:  0507 % gaps = 0.1
+OTU:  0601 % gaps = 0.1
+OTU:  0602 % gaps = 0.1
+OTU:  0603 % gaps = 0.1
+OTU:  0604 % gaps = 0.1
+OTU:  0605 % gaps = 0.1
+OTU:  0606 % gaps = 0.1
+OTU:  0701 % gaps = 0.11
+OTU:  0702 % gaps = 0.1
+OTU:  0703 % gaps = 0.11
+OTU:  0704 % gaps = 0.1
+OTU:  0705 % gaps = 0.1
+OTU:  0801 % gaps = 0.12
+OTU:  0805 % gaps = 0.12
+OTU:  0806 % gaps = 0.12
+OTU:  0807 % gaps = 0.1
+OTU:  0808 % gaps = 0.12
+OTU:  08JEPS105293 % gaps = 0.3
+OTU:  08JEPS108288 % gaps = 0.28
+OTU:  08JEPS85765 % gaps = 0.49
+OTU:  08ODell3 % gaps = 0.29
+OTU:  08UC1212496 % gaps = 0.26
+OTU:  08UC1212503 % gaps = 0.51
+OTU:  0901 % gaps = 0.11
+OTU:  0902 % gaps = 0.11
+OTU:  0903 % gaps = 0.11
+OTU:  0905 % gaps = 0.11
+OTU:  0906 % gaps = 0.11
+OTU:  1001 % gaps = 0.09
+OTU:  1002 % gaps = 0.09
+OTU:  1003 % gaps = 0.09
+OTU:  1004 % gaps = 0.09
+OTU:  1005 % gaps = 0.09
+OTU:  10JEPS101012 % gaps = 0.75
+OTU:  10JEPS101013 % gaps = 0.63
+OTU:  10JEPS117584 % gaps = 0.3
+OTU:  10JEPS27391 % gaps = 0.45
+OTU:  10JEPS29946 % gaps = 0.45
+OTU:  10JEPS85144 % gaps = 0.29
+OTU:  10JEPS9289 % gaps = 0.28
+OTU:  10JEPS94421 % gaps = 0.44
+OTU:  10JEPS98004 % gaps = 0.32
+OTU:  10JEPS98046 % gaps = 0.32
+OTU:  10JEPS98429 % gaps = 0.44
+OTU:  10JEPS99502 % gaps = 0.49
+OTU:  10ODell2 % gaps = 0.28
+OTU:  10UC1430074 % gaps = 0.74
+OTU:  10UC1563669 % gaps = 0.9
+OTU:  10UC1583670 % gaps = 0.24
+OTU:  10UC1790116 % gaps = 0.45
+OTU:  10UC762268 % gaps = 0.46
+OTU:  1101 % gaps = 0.09
+OTU:  1102 % gaps = 0.09
+OTU:  1103 % gaps = 0.09
+OTU:  1104 % gaps = 0.09
+OTU:  1106 % gaps = 0.09
+OTU:  11ODell1 % gaps = 0.27
+OTU:  1201 % gaps = 0.1
+OTU:  1202 % gaps = 0.1
+OTU:  1203 % gaps = 0.24
+OTU:  1204 % gaps = 0.22
+OTU:  1205 % gaps = 0.09
+OTU:  1301 % gaps = 0.09
+OTU:  1302 % gaps = 0.09
+OTU:  1303 % gaps = 0.1
+OTU:  1304 % gaps = 0.1
+OTU:  1305 % gaps = 0.09
+OTU:  CLSEUC1531894 % gaps = 0.5
+OTU:  LBIEN1 % gaps = 0.4
+OTU:  LIBIAS320 % gaps = 0.39
+OTU:  LILECMG1541 % gaps = 0.29
+OTU:  LIRUUC1391714 % gaps = 0.64
+OTU:  LNEO1C2 % gaps = 0.39
+OTU:  LPER1 % gaps = 0.4
+OTU:  LUSIT1 % gaps = 0.4
+OTU:  SCDIJEPS74374 % gaps = 0.63
+OTU:  SCDIJEPS93794 % gaps = 0.74
+Total number of OTUs = 115
+Total length of matrix = 4654
+Taxon coverage density = 0.89
+Total % gaps = 0.21
+Partial decisiveness (fraction of triples) = 0.99
+Final supermatrix: alignments/combined.fasta
